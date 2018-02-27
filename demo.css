@@ -1,0 +1,44 @@
+#demo{
+	width: 70vw;
+	height: 70vh;
+	right: 0;
+	left: 0;
+	top: 0;
+	bottom: 0;
+	margin: auto;
+	position: absolute;
+}
+
+
+#demoimages{
+	position: relative;
+	width:2vw;
+	height: auto;
+	text-align: center;
+	right: 0;
+	left: 0;
+	top: 0;
+	bottom: 0;
+	margin: auto;
+	padding: 10px;
+}
+
+
+.demologo{
+	position: relative;
+	width: auto;
+	height: 25vh;
+	display: inline-block;
+	text-align: center;
+	padding: 5px;
+}
+	
+#demomenu{
+	text-align: center;
+	width: 80vw;
+}
+
+body {
+	width:100vw;
+	height: 100vh;
+}
